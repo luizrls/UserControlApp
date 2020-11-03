@@ -1,0 +1,16 @@
+C:\Users\luizrls\source\repos\UserControlApp\Biz\bin\Debug\netstandard2.0\Biz.deps.json
+C:\Users\luizrls\source\repos\UserControlApp\Biz\bin\Debug\netstandard2.0\Biz.dll
+C:\Users\luizrls\source\repos\UserControlApp\Biz\bin\Debug\netstandard2.0\Biz.pdb
+C:\Users\luizrls\source\repos\UserControlApp\Biz\obj\Debug\netstandard2.0\Biz.csprojAssemblyReference.cache
+C:\Users\luizrls\source\repos\UserControlApp\Biz\obj\Debug\netstandard2.0\Biz.AssemblyInfoInputs.cache
+C:\Users\luizrls\source\repos\UserControlApp\Biz\obj\Debug\netstandard2.0\Biz.AssemblyInfo.cs
+C:\Users\luizrls\source\repos\UserControlApp\Biz\obj\Debug\netstandard2.0\Biz.csproj.CoreCompileInputs.cache
+C:\Users\luizrls\source\repos\UserControlApp\Biz\obj\Debug\netstandard2.0\Biz.dll
+C:\Users\luizrls\source\repos\UserControlApp\Biz\obj\Debug\netstandard2.0\Biz.pdb
+C:\Users\luizrls\source\repos\UserControlApp\Biz\bin\Debug\netstandard2.0\Common.dll
+C:\Users\luizrls\source\repos\UserControlApp\Biz\bin\Debug\netstandard2.0\Dal.dll
+C:\Users\luizrls\source\repos\UserControlApp\Biz\bin\Debug\netstandard2.0\Model.dll
+C:\Users\luizrls\source\repos\UserControlApp\Biz\bin\Debug\netstandard2.0\Dal.pdb
+C:\Users\luizrls\source\repos\UserControlApp\Biz\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\luizrls\source\repos\UserControlApp\Biz\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\luizrls\source\repos\UserControlApp\Biz\obj\Debug\netstandard2.0\Biz.csproj.CopyComplete

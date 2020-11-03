@@ -1,0 +1,14 @@
+C:\Users\luizrls\source\repos\UserControlApp\Dao\bin\Debug\netstandard2.0\Dal.deps.json
+C:\Users\luizrls\source\repos\UserControlApp\Dao\bin\Debug\netstandard2.0\Dal.dll
+C:\Users\luizrls\source\repos\UserControlApp\Dao\obj\Debug\netstandard2.0\Dal.csprojAssemblyReference.cache
+C:\Users\luizrls\source\repos\UserControlApp\Dao\obj\Debug\netstandard2.0\Dal.AssemblyInfoInputs.cache
+C:\Users\luizrls\source\repos\UserControlApp\Dao\obj\Debug\netstandard2.0\Dal.AssemblyInfo.cs
+C:\Users\luizrls\source\repos\UserControlApp\Dao\bin\Debug\netstandard2.0\Dal.pdb
+C:\Users\luizrls\source\repos\UserControlApp\Dao\bin\Debug\netstandard2.0\Common.dll
+C:\Users\luizrls\source\repos\UserControlApp\Dao\bin\Debug\netstandard2.0\Model.dll
+C:\Users\luizrls\source\repos\UserControlApp\Dao\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\luizrls\source\repos\UserControlApp\Dao\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\luizrls\source\repos\UserControlApp\Dao\obj\Debug\netstandard2.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\luizrls\source\repos\UserControlApp\Dao\obj\Debug\netstandard2.0\Dal.csproj.CopyComplete
+C:\Users\luizrls\source\repos\UserControlApp\Dao\obj\Debug\netstandard2.0\Dal.dll
+C:\Users\luizrls\source\repos\UserControlApp\Dao\obj\Debug\netstandard2.0\Dal.pdb

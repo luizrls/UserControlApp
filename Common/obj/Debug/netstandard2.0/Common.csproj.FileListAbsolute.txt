@@ -1,0 +1,9 @@
+C:\Users\luizrls\source\repos\UserControlApp\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\luizrls\source\repos\UserControlApp\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\luizrls\source\repos\UserControlApp\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\luizrls\source\repos\UserControlApp\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+C:\Users\luizrls\source\repos\UserControlApp\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\luizrls\source\repos\UserControlApp\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\luizrls\source\repos\UserControlApp\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\luizrls\source\repos\UserControlApp\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\luizrls\source\repos\UserControlApp\Common\obj\Debug\netstandard2.0\Common.pdb
